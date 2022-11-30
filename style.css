@@ -120,6 +120,14 @@ nav ul li a{
   padding: 70px 120px;
 }
 
+#feature{
+  display:inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
 #feature .featured-box{
   width: 150px;
   text-align: center;
@@ -141,5 +149,6 @@ nav ul li a{
   color: #000000; 
   background-color: #fddde4; 
 }
+
 
 
