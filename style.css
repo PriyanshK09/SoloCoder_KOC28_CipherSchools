@@ -91,3 +91,10 @@ nav ul li a{
   margin-top: 15px;
   margin-right: 15px;
 }
+
+.featured-img{
+  height: 90%;
+  position: absolute;
+  bottom: 0%;
+  right: 70px;
+}
