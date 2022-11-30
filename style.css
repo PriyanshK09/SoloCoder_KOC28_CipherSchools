@@ -160,6 +160,12 @@ nav ul li a{
   text-align: center;
 }
 
+#product1 .pro-container{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+
 #product1 .fhead{
   font-size: 30px;
   font-weight: bold;
@@ -176,6 +182,7 @@ nav ul li a{
   cursor: pointer;
   box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.03);
   transition: 0.2s ease;
+  position: relative;
 }
 
 #product1 .pro:hover{
@@ -219,5 +226,19 @@ nav ul li a{
   font-size: 18px;
   font-weight: 700;
   color: rgb(4, 82, 56);
+}
+
+#product1 .pro .cart{
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  border-radius: 50px;
+  font-weight: 500;
+  background-color: #e8f6ea;
+  color: #088178;
+  border: 1px solid #cce7d0;
+  position: absolute;
+  bottom: 20px;
+  right: 10px;
 }
 
