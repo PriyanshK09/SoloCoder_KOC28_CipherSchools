@@ -96,7 +96,7 @@ nav ul li a{
   height: 90%;
   position: absolute;
   bottom: 0%;
-  right: 70px;
+  right: 20px;
 }
 
 .social-links{
@@ -117,21 +117,20 @@ nav ul li a{
 }
 
 .s1{
-  padding: 70px 120px;
+  padding: 70px 200px;
 }
 
 #feature{
-  display:inline-flex;
+  display:flex;
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
-  flex-direction: row;
 }
 
 #feature .featured-box{
   width: 150px;
   text-align: center;
-  padding: 20px 15px;
+  padding: 20px 75px;
   box-shadow: 20px 20px 34px rgba(0, 0, 0, 0.03);
   border: 1px solid #cce7d0;
   border-radius: 4px;
@@ -140,6 +139,11 @@ nav ul li a{
 
 #feature .featured-box:hover{
   box-shadow: 10px 10px 60px rgba(255, 0, 0, 0.03);
+}
+
+#feature .featured-box img{
+  width: 100%;
+  margin-bottom: 8px;
 }
 
 #feature .featured-box h4{
