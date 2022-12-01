@@ -449,18 +449,11 @@ footer .copyright{
   font-weight: 600;
 }
 
-/* Error 404 Page */
-.four-0-four-image{
-  display: block;
-  margin: 60px auto;
-}
-
-.four-0-four-msg{
+#soon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
   text-align: center;
-  text-transform: capitalize;
-  color: #383838;
-}
-
-.four-0-four-msg a{
-  color: #383838;
+  padding: 50px 0;
 }
