@@ -1,3 +1,5 @@
+/* Home Page */
+
 *{
   margin: 0;
   padding: 0;
@@ -395,4 +397,70 @@ footer .follow i{
 footer .copyright{
   width: 100%;
   text-align: center;
+}
+
+/* Shop Page */
+
+#page-header{
+  background-image: url(/assets/banner/b2.jpg);
+  width: 100%;
+  height: 30vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  border-radius: 15px;
+}
+
+#page-header h1{
+  font-size: 60px;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+}
+
+#page-header h2{
+  font-size: 40px;
+  font-weight: 700;
+  color: #fff;
+}
+
+#page-header p{
+  font-size: 18px;
+  font-weight: 700;
+  color: #fff;
+}
+
+#pagination{
+  text-align: center;
+}
+
+#pagination a{
+  text-decoration: none;
+  background-color: #088178;
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: #fff;
+  font-weight: 600;
+}
+
+#pagination a i{
+  font-size: 16px;
+  font-weight: 600;
+}
+
+/* Error 404 Page */
+.four-0-four-image{
+  display: block;
+  margin: 60px auto;
+}
+
+.four-0-four-msg{
+  text-align: center;
+  text-transform: capitalize;
+  color: #383838;
+}
+
+.four-0-four-msg a{
+  color: #383838;
 }
