@@ -126,21 +126,16 @@ nav ul li a{
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 10px;
   column-gap: 10px;
-  width: 700px;
+  row-gap: 0px;
+  width: 550px;
 }
 
 #feature .featured-box{
   width: 150px;
   text-align: center;
   padding: 20px 75px;
-  box-shadow: 20px 20px 34px rgba(0, 0, 0, 0.03);
-  border: 1px solid #cce7d0;
   border-radius: 4px;
   margin: 15px 0;
-}
-
-#feature .featured-box:hover{
-  box-shadow: 10px 10px 60px rgba(255, 0, 0, 0.03);
 }
 
 #feature .featured-box img{
@@ -149,9 +144,9 @@ nav ul li a{
 }
 
 #feature .featured-box h4{
-  padding: 9px 8px 6px 8px;
+  padding: 4px 2px 2px 6px;
   line-height: 0.8;
-  border-radius: 4px;
+  border-radius: 6px;
   color: #000000; 
   background-color: #fddde4; 
 }
@@ -164,6 +159,7 @@ nav ul li a{
   display: flex;
   justify-content: space-between;
   padding-top: 20px;
+  flex-wrap: wrap;
 }
 
 #product1 .fhead{
@@ -174,19 +170,18 @@ nav ul li a{
 }
 
 #product1 .pro{
-  width: 23%;
+  width: 20%;
   min-width: 250px;
-  padding: 10px 12px;
-  border: 1px solid #cce7d0;
+  padding: 8px 20px;
+  border: 4px solid #cce7d0;
   border-radius: 25px;
   cursor: pointer;
-  box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.03);
+  box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.05);
   transition: 0.2s ease;
-  position: relative;
 }
 
 #product1 .pro:hover{
-  box-shadow: 10px 10px 60px rgba(255, 0, 0, 0.09);
+  box-shadow: 10px 10px 60px rgba(0, 0, 0, 0.2);
 }
 
 #product1 .para{
@@ -196,8 +191,8 @@ nav ul li a{
 }
 
 #product1 .pro img{
-  width: 100%;
-  border-radius: 20px;
+  width: 90%;
+  border-radius: 30px;
 }
 
 #product1 .pro .des{
@@ -222,7 +217,7 @@ nav ul li a{
 }
 
 #product1 .pro h4{
-  padding-top: 7px;
+  padding-top: 8px;
   font-size: 18px;
   font-weight: 700;
   color: rgb(4, 82, 56);
@@ -242,3 +237,51 @@ nav ul li a{
   right: 10px;
 }
 
+.section-m1{
+  margin: 40px 0;
+}
+
+#banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: url(/assets/banner/b1.jpg);
+  color: #fddde4;
+  background-position: center;
+  padding-bottom: 20px;
+}
+
+#banner h4{
+  color: #ffffff;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+#banner h2{
+  color: #ffffff;
+  font-size: 60px;
+  font-weight: bold;
+  padding: 10px 0px;
+}
+
+#banner h2 span{
+  color: #b93333;
+  font-size: 90px;
+  font-weight: bold;
+  padding: 10px 5px;
+}
+
+button.normal{
+  font-size: 20px;
+  font-weight: 600;
+  padding: 15px 30px;
+  color: #000000;
+  background-color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  transition: 0.2s;
+}
