@@ -251,6 +251,7 @@ nav ul li a{
   color: #fddde4;
   background-position: center;
   padding-bottom: 20px;
+  border-radius: 20px;
 }
 
 #banner h4{
@@ -284,4 +285,114 @@ button.normal{
   border: none;
   outline: none;
   transition: 0.2s;
+}
+
+#banner button:hover{
+  background: #088178;
+  color: #fff;
+}
+
+#newsletter{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  background-image: url(/assets/banner/b14.png);
+  background-repeat: no-repeat;
+  background-position: 20% 30%;
+  background-color: #021127;
+  padding: 50px 100px;
+  font-size: 20px;
+  border-radius: 20px;
+}
+
+#newsletter h4{
+  font-size: 40px;
+  font-weight: 700;
+  color: #eee;
+}
+
+#newsletter p{
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(157, 228, 216);
+}
+
+#newsletter p span{
+  font-size: 20px;
+  font-weight: 600;
+  color: rgb(208, 255, 0);
+}
+
+#newsletter .form{
+  display: flex;
+  width: 40%;
+}
+
+#newsletter input{
+  height: 3.125rem;
+  padding: 0 1.25rem;
+  font-size: 14px;
+  width: 100%;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  outline: none;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+#newsletter button{
+  background-color: #088178;
+  color: #fff;
+  white-space: nowrap;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+footer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+footer .col{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+footer .logo{
+  margin-bottom: 10px;
+  padding-top: 20px;
+}
+
+footer h4{
+  font-size: 30px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+footer p{
+  font-size: 15px;
+  margin: 0 0 8px 0;
+}
+
+footer a{
+  font-size: 15px;
+  text-decoration: none;
+  color: #222;
+  margin: 0 0 8px 0;
+  margin-bottom: 8px;
+}
+
+footer .follow i{
+  margin-top: 8px;
+  color: #465b52;
+  cursor: pointer;
+}
+
+footer .copyright{
+  width: 100%;
+  text-align: center;
 }
