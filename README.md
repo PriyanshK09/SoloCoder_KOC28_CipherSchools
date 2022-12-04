@@ -25,7 +25,7 @@ Steps to install Visual Studio code:
 * Also install [Github Desktop](https://desktop.github.com/).
 
 ## File Overview
-> * index.html : Default HTML File which contains the container and the Home Page of the website
+> * [index.html](https://github.com/PriyanshK09/SoloCoder_KOC28_CipherSchools/blob/main/index.html) : Default HTML File which contains the container and the Home Page of the website
 > * about.html : About Us page which contains the info about the Website of "E-Vikreta : The E-Commerce Provider"
 > * ontact.html : Contact Us page which contains the Contact details of the E-Commerce Business
 > * shop.html : The product showcase page of the website
