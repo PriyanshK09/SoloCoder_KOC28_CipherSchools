@@ -1,5 +1,5 @@
 # HTML Project
-***
+
 **E-Vikreta** : An online E-Commerce website designed by me for my College Project, Submitted to CipherSchools for CSE326 (HTML)
 
 | Project No. | Project Name | Link for Live Demo
@@ -7,21 +7,17 @@
 | 01          | E-Commerce Website                 | [Live Demo](https://evikreta.tk/) |
 
 ## Task
-***
 Creating an E-Commerce website using HTML and CSS only with the usage of basic tags and attributes of HTML/CSS learned till now.
 
 ## Skills
-***
 Good Knowledge of HTML & CSS and there varuious attributes
 
 ## Techologies 
-***
 * [Visual Studio Code](https://code.visualstudio.com/Download)
 * [Github](https://github.com/)
 * [Netlify](https://www.netlify.com/) 
 
 ## Installation
-***
 Steps to install Visual Studio code:
 
 * Click on [Visual Studio Code](https://code.visualstudio.com/Download) and install according to your operating system.
