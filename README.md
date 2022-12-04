@@ -33,3 +33,19 @@ Steps to install Visual Studio code:
 > * [style.css](https://github.com/PriyanshK09/SoloCoder_KOC28_CipherSchools/blob/main/style.css) : The default Stylesheet of the HTML Website
 
 
+## Quick Links
+<div align="center">
+
+  <h3 align="center">E-Vikreta : An E-Commerce Website Project</h3>
+
+  <p align="center">
+    <br />
+    <a href="https://github.com/PriyanshK09/SoloCoder_KOC28_CipherSchools"><strong>Explore the docs »</strong></a>
+    <br />
+    ·
+    <a href="https://github.com/PriyanshK09/SoloCoder_KOC28_CipherSchools/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/PriyanshK09/SoloCoder_KOC28_CipherSchools/issues">Request Feature</a>
+  </p>
+</div>
+
