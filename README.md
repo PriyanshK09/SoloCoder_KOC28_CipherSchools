@@ -1,12 +1,5 @@
 # HTML Project
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 **E-Vikreta** : An online E-Commerce website designed by me for my College Project, Submitted to CipherSchools for CSE326 (HTML)
 
 | Project No. | Project Name | Link for Live Demo
