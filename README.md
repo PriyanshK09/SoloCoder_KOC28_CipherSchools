@@ -23,3 +23,6 @@ Steps to install Visual Studio code:
 * Click on [Visual Studio Code](https://code.visualstudio.com/Download) and install according to your operating system.
 * Install Live server Extention from VS-Code Extension Store
 * Also install [Github Desktop](https://desktop.github.com/).
+
+## File Overview
+> index.html : Default HTML File which contains the container and the Home Page of the website
