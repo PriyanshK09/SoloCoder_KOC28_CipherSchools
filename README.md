@@ -1,4 +1,18 @@
-# HTML Project
+# HTML Project ; E-Commerce Website ; CipherSchools - KOC28
+<div align="center">
+
+  <h3 align="center">E-Vikreta : An E-Commerce Website Project</h3>
+
+  <p align="center">
+    <br />
+    <a href="https://github.com/PriyanshK09/SoloCoder_KOC28_CipherSchools"><strong>Explore the docs »</strong></a>
+    <br />
+    ·
+    <a href="https://github.com/PriyanshK09/SoloCoder_KOC28_CipherSchools/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/PriyanshK09/SoloCoder_KOC28_CipherSchools/issues">Request Feature</a>
+  </p>
+</div>
 
 **E-Vikreta** : An online E-Commerce website designed by me for my College Project, Submitted to CipherSchools for CSE326 (HTML)
 
@@ -32,20 +46,4 @@ Steps to install Visual Studio code:
 > * [soon.html](https://github.com/PriyanshK09/SoloCoder_KOC28_CipherSchools/blob/main/soon.html) : Regarding all the pages/links/sublinks/category which are still not made or are undermaking for the near future
 > * [style.css](https://github.com/PriyanshK09/SoloCoder_KOC28_CipherSchools/blob/main/style.css) : The default Stylesheet of the HTML Website
 
-
-## Quick Links
-<div align="center">
-
-  <h3 align="center">E-Vikreta : An E-Commerce Website Project</h3>
-
-  <p align="center">
-    <br />
-    <a href="https://github.com/PriyanshK09/SoloCoder_KOC28_CipherSchools"><strong>Explore the docs »</strong></a>
-    <br />
-    ·
-    <a href="https://github.com/PriyanshK09/SoloCoder_KOC28_CipherSchools/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/PriyanshK09/SoloCoder_KOC28_CipherSchools/issues">Request Feature</a>
-  </p>
-</div>
 
