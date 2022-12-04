@@ -14,12 +14,14 @@
   </p>
 </div>
 
+<center>
 ![Issues](https://img.shields.io/bitbucket/issues/PriyanshK09/SoloCoder_KOC28_CipherSchools)
 ![License](https://img.shields.io/github/license/PriyanshK09/SoloCoder_KOC28_CipherSchools)
 ![Netlify Status](https://img.shields.io/netlify/2f865916-c4e1-40fc-861e-d7ba124cce10)
 ![Last Commit](https://img.shields.io/github/last-commit/PriyanshK09/SoloCoder_KOC28_CipherSchools)
 ![Repo Stars](https://img.shields.io/github/stars/PriyanshK09/SoloCoder_KOC28_CipherSchools?style=social)
 ![Language](https://img.shields.io/badge/Language-HTML-black)
+<center>
 
 **E-Vikreta** : An online E-Commerce website designed by me for my College Project, Submitted to CipherSchools for CSE326 (HTML)
 
