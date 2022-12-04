@@ -46,4 +46,18 @@ Steps to install Visual Studio code:
 > * [soon.html](https://github.com/PriyanshK09/SoloCoder_KOC28_CipherSchools/blob/main/soon.html) : Regarding all the pages/links/sublinks/category which are still not made or are undermaking for the near future
 > * [style.css](https://github.com/PriyanshK09/SoloCoder_KOC28_CipherSchools/blob/main/style.css) : The default Stylesheet of the HTML Website
 
+## Roadmap
+
+- [x] Setup all the files and Host on the web
+- [x] Add Changelog and Readme
+- [ ] Adding the Cart Feature
+- [ ] Adding Solo Product Page for each Project
+- [ ] Usage of Bootstrap and React.js after attaining the knowledge of the same
+- [ ] Multi-language Support
+    - [ ] English
+    - [ ] Hindi
+
+See the [open issues](https://github.com/PriyanshK09/SoloCoder_KOC28_CipherSchools/issues) for a full list of proposed features (and known issues).
+
+
 
