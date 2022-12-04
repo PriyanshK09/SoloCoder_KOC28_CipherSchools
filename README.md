@@ -25,11 +25,11 @@ Steps to install Visual Studio code:
 * Also install [Github Desktop](https://desktop.github.com/).
 
 ## File Overview
-> index.html : Default HTML File which contains the container and the Home Page of the website <br>
-> about.html : About Us page which contains the info about the Website of "E-Vikreta : The E-Commerce Provider" <br>
-> contact.html : Contact Us page which contains the Contact details of the E-Commerce Business <br>
-> shop.html : The product showcase page of the website <br>
-> soon.html : Regarding all the pages/links/sublinks/category which are still not made or are undermaking for the near future <br>
-> style.css : The default Stylesheet of the HTML Website <br>
+> * index.html : Default HTML File which contains the container and the Home Page of the website
+> * about.html : About Us page which contains the info about the Website of "E-Vikreta : The E-Commerce Provider"
+> * ontact.html : Contact Us page which contains the Contact details of the E-Commerce Business
+> * shop.html : The product showcase page of the website
+> * soon.html : Regarding all the pages/links/sublinks/category which are still not made or are undermaking for the near future
+> * style.css : The default Stylesheet of the HTML Website
 
 
