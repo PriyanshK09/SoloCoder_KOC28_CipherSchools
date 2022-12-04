@@ -14,7 +14,8 @@
   </p>
 </div>
 
-https://img.shields.io/bitbucket/issues/PriyanshK09/SoloCoder_KOC28_CipherSchools
+![Issues](https://img.shields.io/bitbucket/issues/PriyanshK09/SoloCoder_KOC28_CipherSchools)
+![License](https://img.shields.io/github/license/PriyanshK09/SoloCoder_KOC28_CipherSchools)
 
 **E-Vikreta** : An online E-Commerce website designed by me for my College Project, Submitted to CipherSchools for CSE326 (HTML)
 
