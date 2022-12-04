@@ -53,8 +53,9 @@ Steps to install Visual Studio code:
 - [ ] Adding the Cart Feature
 - [ ] Adding Solo Product Page for each Project
 - [ ] Usage of Bootstrap and React.js after attaining the knowledge of the same
+- [ ] Hamburger Menu
 - [ ] Multi-language Support
-    - [ ] English
+    - [x] English
     - [ ] Hindi
 
 See the [open issues](https://github.com/PriyanshK09/SoloCoder_KOC28_CipherSchools/issues) for a full list of proposed features (and known issues).
