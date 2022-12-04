@@ -16,6 +16,7 @@
 
 ![Issues](https://img.shields.io/bitbucket/issues/PriyanshK09/SoloCoder_KOC28_CipherSchools)
 ![License](https://img.shields.io/github/license/PriyanshK09/SoloCoder_KOC28_CipherSchools)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2f865916-c4e1-40fc-861e-d7ba124cce10/deploy-status)](https://app.netlify.com/sites/evikreta/deploys)
 
 **E-Vikreta** : An online E-Commerce website designed by me for my College Project, Submitted to CipherSchools for CSE326 (HTML)
 
