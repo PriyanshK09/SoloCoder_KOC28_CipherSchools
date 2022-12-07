@@ -67,6 +67,7 @@ Steps to install Visual Studio code:
 - [ ] Adding Solo Product Page for each Project
 - [ ] Usage of Bootstrap and React.js after attaining the knowledge of the same
 - [ ] Hamburger Menu
+- [ ] More additional Features such as forms, etc
 - [ ] Multi-language Support
     - [x] English
     - [ ] Hindi
